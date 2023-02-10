@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unit Convertor</string>
+    <string name="unit_convertor">Unit Convertor</string>
+    <string name="enter_the_number">Enter the number</string>
+    <string name="g_to_kg">G TO KG</string>
+    <string name="kg_to_g">KG TO G</string>
+    <string name="km_to_m">KM TO M</string>
+    <string name="m_to_km">M TO KM</string>
+    <string name="textview" />
+</resources>
